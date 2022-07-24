@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="select_city">Select City</string>
+    <string name="temp">Temp:</string>
+    <string name="min_temp">Min Temp :</string>
+    <string name="max_temp">Max Temp:</string>
+    <string name="climate">Climate:</string>
+</resources>
